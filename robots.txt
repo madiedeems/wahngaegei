@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aeyeisooh.lavalynx.com/sitemap.xml
